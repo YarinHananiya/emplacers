@@ -1,8 +1,6 @@
 /*******************************************************************************
  * back_emplacer, front_emplacer, emplacer & iterators
- * 
  * Author: Yarin Hananiya
- * Date:   23/10/2019
  * ****************************************************************************/
 #ifndef EMPLACERS_HPP
 #define EMPLACERS_HPP

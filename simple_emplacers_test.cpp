@@ -4,9 +4,7 @@
 #include <set>       // std::set
 #include <list>      // std::list
 
-#include <forward_list>
-
-#include "emplacers.hpp" // back_emplacer, front_emplacer
+#include "emplacers.hpp" // back_emplacer, front_emplacer, emplacer
 
 class Integer
 {
